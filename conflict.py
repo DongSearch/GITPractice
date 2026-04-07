@@ -1,1 +1,1 @@
-print('A change')
+print('A and B change')
